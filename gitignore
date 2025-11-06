@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio cache files
+*.mp3
+*.wav
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# API keys or environment files
+*.env
+
+# Python egg info
+*.egg-info/
