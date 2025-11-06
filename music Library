@@ -1,0 +1,14 @@
+music = {
+    "tumtak" : "https://www.youtube.com/watch?v=nOt9Eh-sBtQ&list=PLiDQS_8hFhuJmmVSuLxxtfJnflX0ILz8a&index=50",
+    "guzaarish" : "https://www.youtube.com/watch?v=rU4qEtDXfnM",
+    "zarasa"  : "https://www.youtube.com/watch?v=-8C_2BBVWk8",
+    "panindia" : "https://www.youtube.com/watch?v=oLTe_ZXIEdE",
+    "animal" : "https://www.youtube.com/watch?v=gCYcHz2k5x0",
+    "paradise" :"https://www.youtube.com/watch?v=1G4isv_Fylg",
+    "saajna" :"https://www.youtube.com/watch?v=5agwoDdsyO8&list=PLiDQS_8hFhuJmmVSuLxxtfJnflX0ILz8a&index=1",
+    "masakali":"https://www.youtube.com/watch?v=D395bK70m3w&list=PLiDQS_8hFhuJmmVSuLxxtfJnflX0ILz8a&index=2",
+    "sajde" : "https://www.youtube.com/watch?v=zfABYXP_NSA&list=PLiDQS_8hFhuJmmVSuLxxtfJnflX0ILz8a&index=16",
+    "rabba" :"https://www.youtube.com/watch?v=ykWgSGsZyeo&list=PLiDQS_8hFhuJmmVSuLxxtfJnflX0ILz8a&index=28",
+    "kaisemujhe" : "https://www.youtube.com/watch?v=6NeVceQd6yI&list=PLiDQS_8hFhuJmmVSuLxxtfJnflX0ILz8a&index=30"
+
+}
