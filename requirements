@@ -1,0 +1,8 @@
+speechrecognition
+pygame
+requests
+google-genai
+elevenlabs
+pyaudio
+python-weather
+asyncio
