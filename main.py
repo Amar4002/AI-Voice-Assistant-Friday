@@ -17,14 +17,14 @@ import asyncio
 
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
-newsapi = "YOUR_API_KEY"
+newsapi = "Api_Key"
 
 
 
 
     
 def aiProcess(command):
-    client = genai.Client(api_key="YOUR_API_KEY")
+    client = genai.Client(api_key="Api_Key")
     
     response = client.models.generate_content(
     model="gemini-2.5-flash",
@@ -33,8 +33,8 @@ def aiProcess(command):
 
     return(response.text)
  
-API_KEY = "YOUR_API_KEY" 
-VOICE_ID = "YOUR_API_KEY"  # Bella voice
+API_KEY = "Api_Key" 
+VOICE_ID = "Api_Key"  # Bella voice
 
 pygame.mixer.init()
 
